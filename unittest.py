@@ -1,5 +1,5 @@
 import unittest
-from modern_infrastruktura.addition import addition
+from modern_infrastruktura import addition
 
 class TestAddition(unittest.TestCase):
 
